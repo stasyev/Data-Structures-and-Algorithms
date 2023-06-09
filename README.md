@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithms
 See me implement data structures and algorithms from scratch in multiple languages.
-##Data Structures
-- [ ] LinkedList
+## Data Structures
+- [x] LinkedList
 - [ ] Trees
 - [ ] Tries
 - [ ] Graphs
@@ -12,14 +12,14 @@ See me implement data structures and algorithms from scratch in multiple languag
 - [ ] ArrayList
 - [ ] Hash Table
 
-##Algorithms:
+## Algorithms:
 - [ ] Breadth-First Search
 - [ ] Depth-First Search
 - [ ] Binary Search
 - [ ] Merge Sort
 - [ ] Quick Sort
 
-##Concepts:
+## Concepts:
 - [ ] Bit Manipulation
 - [ ] Memory
       Stack vs Heap
