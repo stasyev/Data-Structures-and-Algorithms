@@ -24,6 +24,13 @@ public class ArrayList<E>{
 		size--;
 	}
 
+	void removeAll(){
+		index = 0;
+		Consumer<String> consumer = s -> { array[index] = new Object(); index++ }; 
+		array.asList().forEach(consumer);
+		
+		size = 0;
+	}
 	public static void main(String[] args){
 		ArrayList<Integer> list = new ArrayList<>();
 		list.add(1);
