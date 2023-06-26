@@ -15,7 +15,7 @@ See me implement data structures and algorithms from scratch in multiple languag
 ### Algorithms:
 - [ ] Breadth-First Search
 - [ ] Depth-First Search
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Merge Sort
 - [ ] Quick Sort
 
