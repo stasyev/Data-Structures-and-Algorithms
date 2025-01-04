@@ -5,11 +5,11 @@ See me implement data structures and algorithms from scratch in multiple languag
 - [ ] Trees
 - [ ] Tries
 - [ ] Graphs
-- [ ] Stacks
-- [ ] Queues
+- [x] Stacks
+- [x] Queues
 - [ ] Heaps
 - [ ] Vector
-- [ ] ArrayList
+- [x] ArrayList
 - [ ] Hash Table
 
 ### Algorithms:
